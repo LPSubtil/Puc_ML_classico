@@ -19,6 +19,7 @@ metodológica foi intencional, com o objetivo didático de aprofundar o entendim
 
 -[Scikit-learn](https://scikit-learn.org/stable/) 
 -[SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+-[HOG](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_hog.html)
 
 
 
